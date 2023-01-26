@@ -1,2 +1,2 @@
 # project
- contains data analyst projects
+ contains data analyst projects at Rara Now
